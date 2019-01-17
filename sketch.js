@@ -1,5 +1,3 @@
-// Author: Vincent C. (Vince14Genius)
-// Language: JavaScript
 // Simple 3D Renderer - MATH IA SAMPLE CASE
 
 // Essential variables
